@@ -1,3 +1,7 @@
+#16. Take the length of three sides and classify the triangle (equilateral, isosceles, or scalene).
+
+
+
 # Function to classify the triangle
 def classify_triangle(a, b, c):
     if a == b == c:

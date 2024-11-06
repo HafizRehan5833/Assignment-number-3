@@ -1,3 +1,4 @@
+#2. Take a user’s age as input and display whether they are a minor, adult, or senior citizen.
 age=int(input("Enter Your age quit for q : "))
 
 

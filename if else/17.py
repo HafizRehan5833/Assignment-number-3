@@ -1,3 +1,5 @@
+#17. Write a program that asks for an integer and checks if it’s divisible by 2, 3, or both.
+
 num=int(input("Enter the number: ")) 
 
 if num%2 == 0 or num%3 == 0:

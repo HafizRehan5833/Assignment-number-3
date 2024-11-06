@@ -1,3 +1,4 @@
+
 year=int(input("Enter the Year: "))
 
 if year%100 == 0:

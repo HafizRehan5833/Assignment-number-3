@@ -1,3 +1,4 @@
+#15. Write a program to check if a number is within a specified range.
 num=float(input("Enter the number: "))
 
 min_range=float(input("Enter the minimum number: "))

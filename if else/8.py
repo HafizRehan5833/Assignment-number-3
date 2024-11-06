@@ -1,3 +1,5 @@
+#8. Create a program that checks if a given string is a palindrome.
+
 user_inpt=input("Enter your string :")
 
 palindrome=user_inpt[::-1]
